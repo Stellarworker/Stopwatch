@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- MainActivity begin -->
+    <dimen name="text_time_margin_top">30dp</dimen>
+    <dimen name="text_time_text_size">45sp</dimen>
+    <dimen name="button_start_margin">30dp</dimen>
+    <dimen name="button_stop_margin_end">30dp</dimen>
+    <!-- MainActivity end -->
+
+</resources>
